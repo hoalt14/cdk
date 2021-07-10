@@ -13,6 +13,16 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 * `cdk diff`        compare deployed stack with current state
 * `cdk synth`       emits the synthesized CloudFormation template
 
+## Reference
+
+* [API](https://docs.aws.amazon.com/cdk/api/latest/docs/aws-construct-library.html)
+* [Best practices for developing cloud applications](https://aws.amazon.com/blogs/devops/best-practices-for-developing-cloud-applications-with-aws-cdk/)
+* [DevAx](https://github.com/DevAx101/MicroServices)
+* [Examples](https://github.com/aws-samples/aws-cdk-examples)
+* [Patterns](https://cdkpatterns.com/)
+* [Pipeline](https://aws.amazon.com/blogs/developer/cdk-pipelines-continuous-delivery-for-aws-cdk-applications/)
+* [Workshop](https://cdkworkshop.com/)
+
 ## CodeCommit Serverless Backup
 
 ```shell
